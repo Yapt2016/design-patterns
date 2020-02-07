@@ -1,10 +1,10 @@
-package com.yapt.demo.design.partterns.factory.abstactfactory;
+package com.yapt.demo.design.partterns.factory.abstractfactory;
 
 /**
  * @author hurui
- * @version Id: AbstactFactoryTest.java, v 0.1 2020/2/3 17:26 YaphetS Exp $$
+ * @version Id: AbstractFactoryTest.java, v 0.1 2020/2/3 17:26 YaphetS Exp $$
  */
-public class AbstactFactoryTest {
+public class AbstractFactoryTest {
 
     /**
      * 抽象工厂模式

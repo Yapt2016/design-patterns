@@ -1,4 +1,4 @@
-package com.yapt.demo.design.partterns.factory.abstactfactory;
+package com.yapt.demo.design.partterns.factory.abstractfactory;
 
 /**
  * 小米手机

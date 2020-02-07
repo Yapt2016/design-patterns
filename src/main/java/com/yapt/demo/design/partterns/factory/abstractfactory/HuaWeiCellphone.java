@@ -1,4 +1,4 @@
-package com.yapt.demo.design.partterns.factory.abstactfactory;
+package com.yapt.demo.design.partterns.factory.abstractfactory;
 
 /**
  * 华为手机
