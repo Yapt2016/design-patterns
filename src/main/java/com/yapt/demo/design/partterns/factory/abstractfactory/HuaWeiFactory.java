@@ -11,6 +11,7 @@ public class HuaWeiFactory implements ElectronicProductsFactory{
      * 生产华为手机
      * @return
      */
+    @Override
     public Cellphone createCellPhone() {
         return new HuaWeiCellphone();
     }
@@ -19,6 +20,7 @@ public class HuaWeiFactory implements ElectronicProductsFactory{
      * 生产华为电视
      * @return
      */
+    @Override
     public Television createTelevision() {
         return new HuaWeiTelevision();
     }

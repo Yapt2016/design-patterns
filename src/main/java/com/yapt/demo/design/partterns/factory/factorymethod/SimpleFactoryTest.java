@@ -18,8 +18,22 @@ public class SimpleFactoryTest {
      * @param args
      */
     public static void main(String[] args) {
-        CellPhoneFactory cellPhoneFactory = new XiaoMiFactory();
-        Cellphone cellphone = cellPhoneFactory.createCellphone();
-        cellphone.create();
+        CellPhoneFactory cellphoneFactory = new XiaoMiFactory();
+        cellphoneFactory.createCellphone().create();
     }
+
+
+//        public static void main(String[] args) throws Exception {
+//            //1.加载Class对象
+//            Class clazz = XiaoMiFactory.class;
+//
+//            Constructor con = clazz.getDeclaredConstructor();
+//            System.out.println(con);
+//            //调用构造方法
+//            //暴力访问(忽略掉访问修饰符)
+//            con.setAccessible(true);
+//            CellPhoneFactory obj = (CellPhoneFactory)con.newInstance();
+//            obj.createCellphone().create();
+//        }
+
 }

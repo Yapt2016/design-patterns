@@ -11,6 +11,7 @@ public class XiaoMiFactory implements ElectronicProductsFactory{
      * 生产小米手机
      * @return
      */
+    @Override
     public Cellphone createCellPhone() {
         return new XiaoMiCellphone();
     }
@@ -19,6 +20,7 @@ public class XiaoMiFactory implements ElectronicProductsFactory{
      * 生产小米电视
      * @return
      */
+    @Override
     public Television createTelevision() {
         return new XiaoMiTelevision();
     }

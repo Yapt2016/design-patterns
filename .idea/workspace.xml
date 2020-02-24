@@ -2,113 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df0c942e-d09c-4f5a-9b14-044f876e500c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/ResultMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/SiginForThirdServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SiginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SinginForThirdService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/IPassportForThird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/PassportForThirdAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/PassportTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForQQAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForSinaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForTelAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForTokenAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForWechatAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/RegistAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/RegistForQQAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/poweradapter/AC220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/poweradapter/DC5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/poweradapter/PowerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/poweradapter/PowerAdapterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/DispatcherServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/MemberController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/SystemController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/DelegateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/EmployeeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/EmployeeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/IEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/Leader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/DeepCloneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/JinGuBang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/QiTianDaSheng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/simple/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/simple/ConcretePrototypeA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/simple/ConcretePrototypeB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/simple/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/simple/PrototypeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/DbRouteProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/db/DynamicDataSourceEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/proxy/OrderServiceStaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/cglibproxy/CGlibMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/cglibproxy/CglibTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/cglibproxy/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/jdkproxy/Girl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/jdkproxy/JDKMeipo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/simpleproxy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/simpleproxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/simpleproxy/RealSubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/simpleproxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/staticproxy/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/staticproxy/FatherProxyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/staticproxy/Son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/MsgResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/PayStrategyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/AliPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/JDPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/PayStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/UnionPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/WechatPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/CashbackStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/CouponStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/EmptyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/GroupbuyStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionActivityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionStrategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/course/BigDataCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/course/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/course/NetworkCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/course/NetworkCourseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/JdbcTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/MemberDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/RowMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/dao/MemberDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/CellPhoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/CellPhoneFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/Cellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/Cellphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/HuaWeiCellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/HuaWeiCellphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/HuaWeiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/HuaWeiFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiCellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiCellphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/Cellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/Cellphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/CellphoneFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/CellphoneFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/HuaWeiCellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/HuaWeiCellphone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/SimpleFactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/SimpleFactoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/XiaoMiCellphone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/yapt/demo/design/partterns/factory/simplefactory/XiaoMiCellphone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/AbstractFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/AbstractFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Cellphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Cellphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiCellphone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiCellphone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -124,102 +25,99 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="245">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/IPassportForThird.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/AbstractFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="374">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/PassportForThirdAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiCellphone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+            <state relative-caret-position="220">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SiginService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-                <element signature="e#520#521#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SinginForThirdService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/PassportTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/SiginForThirdServiceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiTelevision.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/MemberDaoTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/ElectronicProductsFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginForWechatAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiTelevision.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/RegistAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Television.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="132">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/RegistForQQAdapter.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiCellphone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="154">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Cellphone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -242,14 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/DeepCloneTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/JinGuBang.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/Monkey.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/prototype/deep/QiTianDaSheng.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/db/DynamicDataSourceEntity.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/DbRouteProxyTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dbroute/proxy/OrderServiceStaticProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPMeipo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/gpproxy/GPProxyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/jdkproxy/Girl.java" />
@@ -293,6 +183,14 @@
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SiginService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SinginForThirdService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/template/jdbc/MemberDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/threadlocal/ThreadLocalSingleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiCellphone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Cellphone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/AbstractFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.java" />
       </list>
     </option>
   </component>
@@ -322,8 +220,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -364,18 +260,44 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="partterns" type="462c0819:PsiDirectoryNode" />
-              <item name="singleton" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="partterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simplefactory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -393,11 +315,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yapt.demo.design.partterns.singleton.threadlocal" />
       <recent name="com.yapt.demo.design.partterns.strategy.promotion" />
       <recent name="com.yapt.demo.design.partterns.delegate.mvc" />
       <recent name="com.yapt.demo.design.partterns.delegate.simple" />
       <recent name="com.yapt.demo.design.partterns.prototype.deep" />
-      <recent name="com.yapt.demo.design.partterns.prototype.simple" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\software\code\design-patterns\src\main\java\com\yapt\demo\design\partterns\adapter\loginadapter\v2" />
@@ -419,13 +341,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SiginForThirdServiceTest">
-    <configuration name="CglibTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yapt.demo.design.partterns.proxy.dynamicproxy.cglibproxy.CglibTest" />
+  <component name="RunManager" selected="Application.SimpleFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yapt.demo.design.partterns.factory.abstractfactory.AbstractFactoryTest" />
       <module name="design-patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.yapt.demo.design.partterns.proxy.dynamicproxy.cglibproxy.*" />
+          <option name="PATTERN" value="com.yapt.demo.design.partterns.factory.abstractfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -439,19 +361,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.yapt.demo.design.partterns.delegate.simple.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDKProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.yapt.demo.design.partterns.proxy.dynamicproxy.jdkproxy.JDKProxyTest" />
-      <module name="design-patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.yapt.demo.design.partterns.proxy.dynamicproxy.jdkproxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -485,13 +394,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yapt.demo.design.partterns.factory.factorymethod.SimpleFactoryTest" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yapt.demo.design.partterns.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleFactoryTest" />
+        <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.SiginForThirdServiceTest" />
         <item itemvalue="Application.PayStrategyTest" />
         <item itemvalue="Application.DelegateTest" />
-        <item itemvalue="Application.JDKProxyTest" />
-        <item itemvalue="Application.CglibTest" />
       </list>
     </recent_temporary>
   </component>
@@ -509,18 +431,28 @@
       <workItem from="1580801614133" duration="301000" />
       <workItem from="1580802108131" duration="12046000" />
       <workItem from="1581488420286" duration="497000" />
-      <workItem from="1581488945105" duration="5469000" />
+      <workItem from="1581488945105" duration="8513000" />
+      <workItem from="1581737872314" duration="656000" />
+      <workItem from="1582534426514" duration="3680000" />
     </task>
+    <task id="LOCAL-00001" summary="设计模式">
+      <created>1581648888883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581648888884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37816000" />
+    <option name="totallyTimeSpent" value="45196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -530,7 +462,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27505568" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997773" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.27171493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -585,6 +517,13 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -600,185 +539,16 @@
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/cglibproxy/CglibTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/cglibproxy/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/dynamicproxy/jdkproxy/JDKProxyTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/Leader.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/EmployeeB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/IEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/EmployeeA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-59" />
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/simple/DelegateTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/MemberController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/SystemController.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/delegate/mvc/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1477">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/UnionPay.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/PayStrategy.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/AliPay.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/JDPay.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/WechatPay.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/payport/Payment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="12" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/MsgResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/CouponStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/EmptyStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/GroupbuyStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionActivityTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/promotion/PromotionStrategyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/strategy/pay/PayStrategyTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -815,9 +585,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/poweradapter/AC220.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/Member.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/adapters/LoginAdapter.java">
@@ -879,7 +646,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/IPassportForThird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -895,15 +662,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v2/PassportTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/v1/service/SiginService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
@@ -933,6 +700,231 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/threadlocal/ThreadLocalSingleton.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/proxy/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/hungry/HungrySingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/hungry/HungryStaticSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/lazy/LazyDoubleCheckSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/lazy/LazyInnerClassSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/lazy/LazySimpleSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/register/EnumSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/serializable/SerializableSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/ResultMsg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/singleton/register/ContainerSingleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/adapter/loginadapter/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/HuaWeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/reflect/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="405" column="13" selection-start-line="405" selection-start-column="13" selection-end-line="405" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="2174" column="26" selection-start-line="2174" selection-start-column="26" selection-end-line="2174" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/CellPhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/XiaoMiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/factorymethod/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/simplefactory/CellphoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/ElectronicProductsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Cellphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiCellphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/HuaWeiTelevision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/Television.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiCellphone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/yapt/demo/design/partterns/factory/abstractfactory/XiaoMiTelevision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -7,6 +7,7 @@ package com.yapt.demo.design.partterns.factory.abstractfactory;
  */
 public class XiaoMiCellphone implements Cellphone{
 
+    @Override
     public void create() {
         System.out.println("获得小米手机一部");
     }

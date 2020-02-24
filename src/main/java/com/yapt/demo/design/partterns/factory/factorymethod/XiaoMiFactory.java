@@ -6,6 +6,10 @@ package com.yapt.demo.design.partterns.factory.factorymethod;
  */
 public class XiaoMiFactory implements CellPhoneFactory{
 
+    public XiaoMiFactory() {
+    }
+
+    @Override
     public Cellphone createCellphone() {
         return new XiaoMiCellphone();
     }
