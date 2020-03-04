@@ -8,7 +8,7 @@ public class FatherProxyTest {
     public static void main(String[] args) {
 
         Father father = new Father(new Son());
-        father.findLove();
+        father.findLove("yapt");
 
         //农村，媒婆
         //婚介所

@@ -5,5 +5,5 @@ package com.yapt.demo.design.partterns.proxy;
  */
 public interface Person {
 
-    void findLove();
+    void findLove(String name);
 }

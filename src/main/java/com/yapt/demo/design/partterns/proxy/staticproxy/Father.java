@@ -13,9 +13,10 @@ public class Father implements Person {
         this.person = person;
     }
 
-    public void findLove() {
+    @Override
+    public void findLove(String name) {
         System.out.println("父亲物色对象");
-        this.person.findLove();
+        this.person.findLove(name);
         System.out.println("双方父母同意，确立关系");
     }
 

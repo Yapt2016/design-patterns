@@ -8,7 +8,8 @@ import com.yapt.demo.design.partterns.proxy.Person;
  */
 public class Son implements Person {
 
-    public void findLove() {
+    @Override
+    public void findLove(String name) {
         System.out.println("儿子要求：肤白貌美大长腿");
     }
 
