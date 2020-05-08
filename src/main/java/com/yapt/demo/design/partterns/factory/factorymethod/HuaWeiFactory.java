@@ -6,6 +6,7 @@ package com.yapt.demo.design.partterns.factory.factorymethod;
  */
 public class HuaWeiFactory implements CellPhoneFactory{
 
+    @Override
     public Cellphone createCellphone() {
         return new HuaWeiCellphone();
     }

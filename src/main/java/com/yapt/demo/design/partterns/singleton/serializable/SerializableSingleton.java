@@ -18,6 +18,11 @@ public class SerializableSingleton {
         return SINGLETON;
     }
 
+    /**
+     * 重写readResolve方法，防止序列化和反序列化破坏单例
+     *
+     * @return
+     */
     private Object readResolve(){
         return SINGLETON;
     }

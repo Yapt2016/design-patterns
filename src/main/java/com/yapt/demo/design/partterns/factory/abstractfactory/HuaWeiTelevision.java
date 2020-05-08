@@ -8,6 +8,7 @@ package com.yapt.demo.design.partterns.factory.abstractfactory;
  */
 public class HuaWeiTelevision implements Television{
 
+    @Override
     public void create() {
         System.out.println("获得华为电视机一台");
     }

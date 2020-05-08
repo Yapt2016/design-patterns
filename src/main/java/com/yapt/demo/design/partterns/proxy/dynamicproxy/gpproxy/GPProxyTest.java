@@ -16,7 +16,7 @@ public class GPProxyTest {
             //JDK动态代理的实现原理
             Person obj = (Person) new GPMeipo().getInstance(new Girl());
             System.out.println(obj.getClass());
-            obj.findLove();
+            obj.findLove("rick");
 
         } catch (Exception e) {
             e.printStackTrace();

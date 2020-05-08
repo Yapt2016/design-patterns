@@ -8,6 +8,7 @@ package com.yapt.demo.design.partterns.factory.abstractfactory;
 public class HuaWeiCellphone implements Cellphone{
 
 
+    @Override
     public void create() {
         System.out.println("获得华为手机一部");
     }

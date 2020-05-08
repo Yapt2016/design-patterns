@@ -8,12 +8,13 @@ package com.yapt.demo.design.partterns.singleton.lazy;
 public class LazyInnerClassSingleton {
 
     private LazyInnerClassSingleton(){
+        //防止反射破坏单例
         if(LazyHolder.SINGLETON != null){
             throw new RuntimeException("不可创建更多的实例");
         }
     }
 
-    public static final LazyInnerClassSingleton getInstance(){
+    public static LazyInnerClassSingleton getInstance() {
         return LazyHolder.SINGLETON;
     }
 
