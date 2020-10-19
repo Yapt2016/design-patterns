@@ -1,11 +1,13 @@
 package com.yapt.demo.design.partterns.singleton.lazy;
 
+import java.io.Serializable;
+
 /**
  * 懒汉式之静态内部类实现
  * @author hurui
  * @version Id: LazyInnerClassSingleton.java, v 0.1 2020/2/4 20:53 YaphetS Exp $$
  */
-public class LazyInnerClassSingleton {
+public class LazyInnerClassSingleton implements Serializable {
 
     private LazyInnerClassSingleton(){
         //防止反射破坏单例

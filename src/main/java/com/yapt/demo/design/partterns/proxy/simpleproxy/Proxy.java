@@ -12,6 +12,7 @@ public class Proxy implements Subject {
     }
 
 
+    @Override
     public void request() {
         before();
         subject.request();

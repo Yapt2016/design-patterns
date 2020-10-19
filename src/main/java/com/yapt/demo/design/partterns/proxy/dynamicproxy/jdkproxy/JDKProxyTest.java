@@ -1,7 +1,7 @@
 package com.yapt.demo.design.partterns.proxy.dynamicproxy.jdkproxy;
 
 
-import java.lang.reflect.Method;
+import com.yapt.demo.design.partterns.proxy.Person;
 
 /**
  * Created by Tom on 2019/3/10.
@@ -11,11 +11,8 @@ public class JDKProxyTest {
     public static void main(String[] args) {
         try {
 
-            Object obj = new JDKMeipo().getInstance(new Girl());
-            Method method = obj.getClass().getMethod("findLove", null);
-            method.invoke(obj);
-
-            //obj.findLove();
+            Person obj = new JDKMeipo().getInstance(new Girl());
+            obj.findLove("");
 
             //$Proxy0
 //            byte [] bytes = ProxyGenerator.generateProxyClass("$Proxy0",new Class[]{Person.class});

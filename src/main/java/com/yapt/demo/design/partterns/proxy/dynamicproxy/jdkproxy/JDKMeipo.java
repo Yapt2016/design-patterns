@@ -12,10 +12,10 @@ public class JDKMeipo implements InvocationHandler {
 
     private Object target;
 
-    public Object getInstance(Object target) throws Exception {
+    public <T> T getInstance(Object target) throws Exception {
         this.target = target;
         Class<?> clazz = target.getClass();
-        return Proxy.newProxyInstance(clazz.getClassLoader(), clazz.getInterfaces(), this);
+        return (T) Proxy.newProxyInstance(clazz.getClassLoader(), clazz.getInterfaces(), this);
     }
 
     @Override
